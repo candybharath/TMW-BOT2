@@ -274,7 +274,7 @@ async def next_page(bot, query):
                     ],
                 )
     btn.insert(0, [
-        InlineKeyboardButton("! Check How to Download !", url="https://t.me/Shazam_bot_support")
+        InlineKeyboardButton("! Check How to Download !", url="https://t.me/Howtodownload_xyz/13")
     ])
     btn.insert(0, [
         InlineKeyboardButton("ʟᴀɴɢᴜᴀɢᴇs​", callback_data=f"languages#{search.replace(' ', '_')}#{key}")
